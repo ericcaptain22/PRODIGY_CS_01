@@ -1,2 +1,2 @@
 # PRODIGY_CS_01
-Text Encryption and Decryption using Caesar Cipher Technique. Built Using Python. 
+Text Encryption and Decryption using Caesar Cipher Algorithm. Built Using Python. 
